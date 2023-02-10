@@ -57,7 +57,7 @@ const Home = () => {
                             avanços tecnológicos.
                         </p>
                         <p>
-                            Com o Vivo Cloud Azure, o cliente potencializa o alcance de suas metas e agiliza sua 
+                            Com o Cloud Azure, o cliente potencializa o alcance de suas metas e agiliza sua 
                             transformação digital.
                         </p>
                         <p>
@@ -118,7 +118,7 @@ const Home = () => {
                     <h4><b>Cloud Azure</b></h4>
                     <p>Conheça suas características</p>
 
-                    <p>O <span>Vivo Cloud Azure</span> conta com uma gama de funcionalidades que garantem apoio tecnológico ao negócio do cliente.</p>
+                    <p>O <span>Cloud Azure</span> conta com uma gama de funcionalidades que garantem apoio tecnológico ao negócio do cliente.</p>
                     <p>Suas características técnicas são divididas em oito blocos, sendo eles:</p>
 
                     <div className="block-area">

@@ -85,6 +85,11 @@
     margin-bottom: 1rem;
 }
 
+.vertical-accordion .accordion-wrapper .accordion.show .content p,
+.vertical-accordion .accordion-wrapper .accordion.show .content p span {
+    font-size: 1.2rem;
+}
+
 .vertical-accordion .accordion-wrapper .accordion.show .content p span {
     color: #FFB84C;
     font-weight: 700;
