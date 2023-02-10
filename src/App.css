@@ -27,13 +27,13 @@
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #FE9901;
+  background: #660099;
   border-radius: 1rem;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #db8300;
+  background: #53007d;
 }
 
 ::selection {

@@ -86,7 +86,7 @@
     display: flex;
     align-items: center;
     gap: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 .tab-view-with-image .content .title h4 {
@@ -116,7 +116,7 @@
 }
 
 .tab-view-with-image .content .text-area .text h5 {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: #660099; 
 }
 
